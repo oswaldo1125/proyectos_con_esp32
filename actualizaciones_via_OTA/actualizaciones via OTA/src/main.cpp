@@ -25,8 +25,8 @@ Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, OLED_RESET);
 //            declaracino de constanes               //
 //===================================================//
 //configuraciones para el modo OTA-------------------//
-const char* SSDI = "INFINITUM03C0_2.4";           //nombre de la red 
-const char* PASSWORD = "Cas1la3squ1na";       // contrase;a de la red 
+const char* SSDI = ".......";           //nombre de la red 
+const char* PASSWORD = "......";       // contrase;a de la red 
 const char* HOST_NAME = "Moli_1";         // nombre del dispositivo OTG
 uint32_t last_ota_time = 0;
 
